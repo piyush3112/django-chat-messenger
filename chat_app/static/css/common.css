@@ -1,0 +1,17 @@
+html, body {
+  height: 100%;
+  color: #444;
+  background-image:url('http://organicdrop.in:8050/media/bg.gif');
+  color:white !important;
+}
+.wrapper {
+    min-height: 80%;
+    height: auto !important;
+    margin: 0 auto -35px;
+}
+footer {
+    margin-bottom: 10px;
+}
+hr {
+    border-color: #ccc;
+}
